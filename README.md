@@ -9,4 +9,4 @@ To add your plugin to the list, make a pull request to the community-plugins.jso
 - name: The name of your plugin.
 - author: The author's name.
 - description: A short description of what your plugin does.
-- repo: link to your plugin repo.
+- repo: The GitHub repository identifier, in the form of user-name/repo-name, if your GitHub repo is located at https://github.com/user-name/repo-name.
