@@ -5,5 +5,12 @@
     "description": "A sample plugin for Research Helper",
     "author": "Hunt Feng",
     "repo": "ResearchHelper/simple-memo"
+  },
+  {
+    "id": "translate",
+    "name": "Translate",
+    "description": "A Research Helper plugin that translates selected text in PDF reader",
+    "author": "Hunt Feng",
+    "repo": "ResearchHelper/translate"
   }
 ]
